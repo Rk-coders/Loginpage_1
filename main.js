@@ -1,6 +1,6 @@
 console.log('Hello World!');
 const wrapper = document.querySelector(".wrapper");
-const loginlink = documenmt.querySelector(".login-link");
+const loginlink = document.querySelector(".login-link");
 const registerlink = document.querySelector(".register-link");
 const btnPopup = Document.querySelector(".btnlogin-popup");
 const iconClose =document.querySelector(".icon-close");
